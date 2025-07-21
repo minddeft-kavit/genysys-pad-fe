@@ -1,7 +1,7 @@
 {
-  "address": "7XbJ5YYjkvUK9mBVt1YK2kJnZ11YEit7EvvxvRWNZdT",
+  "address": "2rP4m541QcskR4V6iCZriZ4Pk25zwvXc3CsVB26PPfyy",
   "metadata": {
-    "name": "genesys_pad_solana_mock",
+    "name": "solana_launchpad",
     "version": "0.1.0",
     "spec": "0.1.0",
     "description": "Created with Anchor"
